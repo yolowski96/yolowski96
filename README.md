@@ -3,7 +3,7 @@ Hello World, I'm Goran <img src="https://user-images.githubusercontent.com/13031
 </h2>
 
 <p align="center">
-I'm a Junior Software Developer :computer: working in Sofia,Bulgaria. Welcome to my GitHub.
+I'm a Software Developer :computer: working in Sofia,Bulgaria. Welcome to my GitHub.
 </p>
 
 ## :briefcase: Technical Skills
